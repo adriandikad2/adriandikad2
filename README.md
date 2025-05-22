@@ -57,7 +57,7 @@ Mostly interested in full-stack development as a whole recently.
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
 ![draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
 
-### 🕹️ Game & Simulation
+### ⚒️ Simulation Engines
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/PacketTracer-0082CB?style=flat)
 ![Proteus](https://img.shields.io/badge/Proteus-204D77?style=flat)
